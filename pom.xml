@@ -64,6 +64,7 @@ under the License.
   <properties>
     <mavenVersion>2.2.1</mavenVersion>
     <surefire.version>2.21.0</surefire.version>
+    <javaVersion>7</javaVersion>
   </properties>
 
   <dependencyManagement>
@@ -127,7 +128,7 @@ under the License.
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-archiver</artifactId>
-      <version>3.4</version>
+      <version>3.6.0</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
